@@ -2,7 +2,7 @@
 
 This is simple modules for displaying content from a database using laravel.
 
-![Default look](https://gyazo.com/6562a78fdf437234eafcbf4837dc6b8b)
+![Shop Display](https://github.com/sarziv/module/blob/master/6562a78fdf437234eafcbf4837dc6b8b.png)
 
 ## Set-up 
 * Fork this github
